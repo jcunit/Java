@@ -1,0 +1,1 @@
+This is basicly an empty form in java. There shouldn't be any errors when you compile/run it.
